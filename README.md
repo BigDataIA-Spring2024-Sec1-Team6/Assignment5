@@ -6,7 +6,7 @@ In the context of finance professional development, there's a need to enhance kn
 
 ## Architectural Diagram
 
-![diagram png](https://github.com/BigDataIA-Spring2024-Sec1-Team6/Assignment5/assets/113812925/6c106a5f-3543-4bcb-af4d-8eb24a20aa28)
+![d png](https://github.com/BigDataIA-Spring2024-Sec1-Team6/Assignment5/assets/113812925/5cec3b46-3750-4940-a220-9977dc784444)
 
 
 ## Project Goals
