@@ -3,6 +3,11 @@
 ## Problem Statement
 In the context of finance professional development, there's a need to enhance knowledge retrieval and question-answer capabilities using Models as a Service APIs. This involves curating information from multiple sources and determining the best approach for operationalizing the results within an enterprise environment.
 
+
+## ARCHITECTURAL DIAGRAM
+![diagram png](https://github.com/BigDataIA-Spring2024-Sec1-Team6/Assignment5/assets/113812925/6c106a5f-3543-4bcb-af4d-8eb24a20aa28)
+
+
 ## Project Goals
 1. **Create Knowledge Summaries**: Leverage OpenAI’s GPT to generate detailed summaries based on the learning objectives and content from finance professional development resources.
 2. **Generate Knowledge Base (Q/A)**: Develop a comprehensive question and answer database from topic summaries to enhance learning and retention for financial analysts.
@@ -68,8 +73,7 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND AB
 
 CodeLabs Document: https://codelabs-preview.appspot.com/?file_id=1G9JvGRC8y_qDn36QhqQY8fIfYreahONuV6Cloe24e_8#4
 
-Architecture Diagram:
-<img width="563" alt="Screenshot 2024-04-12 at 4 25 53 PM" src="https://github.com/BigDataIA-Spring2024-Sec1-Team6/Assignment5/assets/114605149/b47b9f62-75bc-44ee-8866-51fdb273cf88">
+
 
 
 
