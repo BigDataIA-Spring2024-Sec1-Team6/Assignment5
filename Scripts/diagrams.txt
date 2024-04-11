@@ -1,0 +1,64 @@
+from diagrams import Diagram, Cluster
+from diagrams.custom import Custom
+from PIL import Image
+import os
+
+# Relative path in the current working directory
+output_path = "/Users/manyareddy/Desktop/icons/diagram.png"  # Path to save the diagram
+
+# Ensure you can write to this path
+with Diagram("Data Pipeline - Architectural Diagram", show=False, outformat="png", filename=output_path) as data_pipeline:
+    # Define custom image components with a complete icon path
+    class CustomUser(Custom):
+        def __init__(self, label):
+            icon_path = "/Users/manyareddy/Desktop/icons/user.png"
+            super().__init__(label, icon_path)
+
+    class CustomOpenAI(Custom):
+        def __init__(self, label):
+            icon_path = "/Users/manyareddy/Desktop/icons/openai.png"
+            super().__init__(label, icon_path)
+
+    class CustomPinecone(Custom):
+        def __init__(self, label):
+            icon_path = "/Users/manyareddy/Desktop/icons/pinecone.png"
+            super().__init__(label, icon_path)
+
+    class CustomStreamlit(Custom):
+        def __init__(self, label):
+            icon_path = "/Users/manyareddy/Desktop/icons/streamlit.png"
+            super().__init__(label, icon_path)
+
+    class CustomFastAPI(Custom):
+        def __init__(self, label):
+            icon_path = "/Users/manyareddy/Desktop/icons/fastapi.png"
+            super().__init__(label, icon_path)
+
+    # Create the data pipeline diagram
+    with Cluster("User"):
+        user = CustomUser("User")
+
+    with Cluster("Streamlit"):
+        streamlit = CustomStreamlit("Streamlit")
+
+    with Cluster("OpenAI"):
+        openai = CustomOpenAI("OpenAI")
+
+    with Cluster("FastAPI"):
+        fastapi = CustomFastAPI("FastAPI")
+
+    with Cluster("Pinecone"):
+        pinecone = CustomPinecone("Pinecone")
+
+    # Create connections
+    user >> streamlit
+    streamlit >> fastapi >> openai >> fastapi
+    fastapi >> pinecone
+
+# Check if the diagram file is created
+if os.path.exists(output_path):
+    # Display the diagram
+    image = Image.open(output_path)
+    image.show()
+else:
+    print("Diagram file not created.")
