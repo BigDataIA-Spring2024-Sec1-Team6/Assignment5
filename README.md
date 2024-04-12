@@ -45,13 +45,11 @@ In the context of finance professional development, there's a need to enhance kn
 8. **Professional Documentation and Reporting**: Improve abilities in creating detailed, professional documentation and reports to support project development, implementation, and evaluation.
 
 ## References
-- Pinecone Quickstart Guide
-- Using Pinecone for Embeddings Search
-- Generating Questions and Answers with Pinecone
-- GPT-4 Retrieval Augmentation with Pinecone
-- Hybrid Search for E-commerce with Pinecone
-- Semantic Search with Pinecone
-- Question Answering with Pinecone
+- https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/pinecone/Using_Pinecone_for_embeddings_search.ipynb
+- https://docs.pinecone.io/examples/notebooks
+- https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/pinecone/Gen_QA.ipynb
+- https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/pinecone/GPT4_Retrieval_Augmentation.ipynb
+
 
 This outline should provide a comprehensive framework for the assignment, detailing all necessary aspects for successful completion and evaluation.
 
