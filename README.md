@@ -22,7 +22,7 @@ In the context of finance professional development, there's a need to enhance kn
 
 
 ## Data Sources
-- Data will be scraped from the **CFA Institute’s website**, webscraping using BeautifulSoup to get a csv file with the 4 assigned documents.
+- Data will be scraped from the **CFA Institute’s website**, webscraping using BeautifulSoup to get a "Assign5_CSV.csv" with the 4 assigned documents.
 
 ## Pre-requisites
 
