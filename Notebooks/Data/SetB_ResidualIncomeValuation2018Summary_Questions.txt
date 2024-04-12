@@ -1,0 +1,1036 @@
+Query 1 for ResidualIncomeValuation2018Summary:
+
+What is the origin of residual income models?
+4 options for you to choose from:
+A. Early 1900s
+B. Late 1800s
+C. Mid-20th century
+D. Early 2000s
+
+Please underline the correct answer.
+==================================================
+Query 2 for ResidualIncomeValuation2018Summary:
+
+What historical concept is residual income based on?
+1. Cost of Equity Capital
+2. Economic Profit
+3. Abnormal Earnings
+4. Opportunity Cost of Common Shareholders
+_underline_1. Cost of Equity Capital
+==================================================
+Query 3 for ResidualIncomeValuation2018Summary:
+
+What historical concept is residual income based on?
+
+1. Economic profit
+2. Abnormal earnings
+3. Economic value added
+4. Alfred Marshall
+
+_Correct answer: 4. Alfred Marshall_
+==================================================
+Query 4 for ResidualIncomeValuation2018Summary:
+
+What historical concept does residual income trace back to?
+a) 1950s
+b) 1700s
+c) 1800s
+d) 2000s
+
+**Correct answer: c) 1800s**
+==================================================
+Query 5 for ResidualIncomeValuation2018Summary:
+
+What century does the history of residual income as an economic concept date back to?
+1) 20th century
+2) 17th century
+3) 19th century
+4) 21st century
+
+_3) 19th century_
+==================================================
+Query 6 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income in the context of equity valuation?
+   - A) Net income plus costs of equity capital
+   - B) Net income minus costs of equity capital
+   - C) Net income plus costs of debt capital
+   - D) Net income minus costs of debt capital
+   **Answer: B) Net income minus costs of equity capital**
+
+2. When did Alfred Marshall first introduce the concept of residual income?
+   - A) Late 1800s
+   - B) Early 1900s
+   - C) Mid 1900s
+   - D) Late 1900s
+   **Answer: A) Late 1800s**
+
+3. What is another name for residual income in some contexts?
+   - A) Operating profit
+   - B) Economic profit
+   - C) Gross income
+   - D) Net profit
+   **Answer: B) Economic profit**
+
+4. What is the key advantage of residual income models in equity valuation?
+   - A) They ignore all costs of capital
+   - B) They explicitly recognize the costs of all capital
+   - C) They base valuation solely on net income
+   - D) They focus only on short-term profitability
+   **Answer: B) They explicitly recognize the costs of all capital**
+==================================================
+Query 7 for ResidualIncomeValuation2018Summary:
+
+What historical figure referred to residual income as the residual or remaining income after considering the costs of all of a company’s capital?
+a) Adam Smith
+b) Alfred Marshall
+c) John Maynard Keynes
+d) Karl Marx
+
+The correct answer is: b) Alfred Marshall
+==================================================
+Query 8 for ResidualIncomeValuation2018Summary:
+
+1. Which concept does residual income deduct from net income for common shareholders' opportunity cost?
+   A) Interest expense
+   B) Sales revenue
+   C) Cost of equity capital
+   D) Cost of goods sold
+   **_C) Cost of equity capital_**
+
+2. What historical figure contributed to the concept of residual income in the late 1800s?
+   A) John Maynard Keynes
+   B) Adam Smith
+   C) Alfred Marshall
+   D) Milton Friedman
+   **_C) Alfred Marshall_**
+
+3. What terminology is sometimes used interchangeably with residual income?
+   A) Gross profit
+   B) Operating income
+   C) Economic profit
+   D) Net loss
+   **_C) Economic profit_**
+
+4. In what section of the reading is the residual income model for estimating the intrinsic value of common stock discussed?
+   A) Section 1
+   B) Section 2
+   C) Section 3
+   D) Section 4
+   **_C) Section 3_**
+==================================================
+Query 9 for ResidualIncomeValuation2018Summary:
+
+1. Who was an early proponent of the concept of residual income in the late 1800s?
+   A) John Smith
+   B) Alfred Marshall
+   C) William Jones
+   D) Emily Brown
+   _B) Alfred Marshall_
+
+2. What does residual income represent in equity valuation models?
+   A) Total income after tax deductions
+   B) Remaining income after considering all capital costs
+   C) Net profit after accounting for liabilities
+   D) Gross income before expenses
+   _B) Remaining income after considering all capital costs_
+
+3. How did General Motors use the concept of residual income in the 1920s?
+   A) To evaluate business segments
+   B) To calculate total revenue
+   C) To assess competitor performance
+   D) To determine customer satisfaction
+   _A) To evaluate business segments_
+
+4. Which term is NOT mentioned as an alternative to residual income in the text?
+   A) Economic profit
+   B) Abnormal earnings
+   C) Capital gains
+   D) Economic value added
+   _C) Capital gains_
+==================================================
+Query 10 for ResidualIncomeValuation2018Summary:
+
+1. Who introduced the concept of residual income in the late 1800s?
+   - A. Alfred Marshall
+   - B. John Maynard Keynes
+   - C. Adam Smith
+   - D. Karl Marx
+
+**Correct Answer: A. Alfred Marshall**
+
+2. What does residual income represent in a company's financial performance?
+   - A. Total revenue
+   - B. Income after considering all capital costs
+   - C. Gross profit
+   - D. Dividends paid to shareholders
+
+**Correct Answer: B. Income after considering all capital costs**
+
+3. How does residual income differ from traditional accounting measures?
+   - A. Residual income includes all costs of capital, while traditional accounting only considers debt capital costs.
+   - B. Residual income excludes all capital costs, while traditional accounting includes equity capital costs.
+   - C. Residual income is the same as net income in traditional accounting.
+   - D. Residual income does not consider shareholder value, unlike traditional accounting.
+
+**Correct Answer: A. Residual income includes all costs of capital, while traditional accounting only considers debt capital costs.**
+
+4. What are some alternative names for residual income mentioned in the text?
+   - A. Total profits and losses
+   - B. Operating income
+   - C. Economic profit, abnormal earnings, or economic value added
+   - D. Revenue growth metrics
+
+**Correct Answer: C. Economic profit, abnormal earnings, or economic value added**
+==================================================
+Query 11 for ResidualIncomeValuation2018Summary:
+
+What is residual income in the context of equity valuation?
+
+A) Residual income is the net income of a company after deducting all expenses.
+B) Residual income is the income generated by a company's preferred shareholders.
+C) Residual income is the remaining income after considering the costs of all of a company’s capital.
+D) Residual income is the income earned by a company from non-core business activities.
+
+**Correct answer:** C) Residual income is the remaining income after considering the costs of all of a company’s capital.
+==================================================
+Query 12 for ResidualIncomeValuation2018Summary:
+
+What historical figure is mentioned in the provided text for having introduced the concept of residual income in the late 1800s?
+A) Adam Smith
+B) John Maynard Keynes
+C) Alfred Marshall
+D) Karl Marx
+
+**Correct answer: C) Alfred Marshall**
+==================================================
+Query 13 for ResidualIncomeValuation2018Summary:
+
+1. Residual income is calculated as:
+   A) Net income divided by the cost of equity capital
+   B) Net income plus interest expense
+   C) Net income less a charge for common shareholders’ opportunity cost
+   D) Net income minus total capital costs
+   **_Correct answer: C) Net income less a charge for common shareholders’ opportunity cost_**
+
+2. Residual income models explicitly account for:
+   A) Cost of debt capital only
+   B) Cost of equity capital only
+   C) Costs of all of a company’s capital
+   D) Cost of retained earnings
+   **_Correct answer: C) Costs of all of a company’s capital_**
+
+3. General Motors used residual income concepts in evaluating:
+   A) Financial statements
+   B) Business segments
+   C) Marketing strategies
+   D) Investment opportunities
+   **_Correct answer: B) Business segments_**
+
+4. Residual income is also known by other names such as:
+   A) Normal earnings
+   B) Standard profit
+   C) Economic profit
+   D) Gross revenue
+   **_Correct answer: C) Economic profit_**
+==================================================
+Query 14 for ResidualIncomeValuation2018Summary:
+
+1. Who is credited with developing the concept of residual income?  
+A) John Smith  
+B) Alfred Marshall  
+C) Jane Doe  
+D) Michael Johnson  
+
+**Correct answer: B) Alfred Marshall**
+
+2. What is residual income in the context of equity valuation?  
+A) Net income plus a charge for common shareholders’ opportunity cost  
+B) Net income minus a charge for common shareholders’ opportunity cost  
+C) Only includes costs of debt capital  
+D) Only includes costs of equity capital  
+
+**Correct answer: B) Net income minus a charge for common shareholders’ opportunity cost**
+
+3. When did General Motors start using residual income in evaluating business segments?  
+A) 1950s  
+B) 1970s  
+C) 1920s  
+D) 1980s  
+
+**Correct answer: C) 1920s**
+
+4. Which section of the reading presents the relative strengths and weaknesses of residual income valuation compared to other methods?  
+A) Section 2  
+B) Section 3  
+C) Section 4  
+D) Section 5  
+
+**Correct answer: C) Section 4**
+==================================================
+Query 15 for ResidualIncomeValuation2018Summary:
+
+What is the historical background of residual income as an economic concept?
+
+A) Developed in the early 1900s by General Motors  
+B) First introduced by Alfred Marshall in the late 1800s  
+C) Coined in the 1920s to evaluate business segments  
+D) Recent concept under names such as economic profit  
+
+**The correct answer is B) First introduced by Alfred Marshall in the late 1800s**
+==================================================
+Query 16 for ResidualIncomeValuation2018Summary:
+
+What historical concept does residual income date back to?
+1. Value-added income
+2. Cost of equity capital
+3. Opportunity cost for common shareholders
+4. Alfred Marshall
+
+The correct answer is _4. Alfred Marshall_.
+==================================================
+Query 17 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income?
+
+A) Net income plus shareholder opportunity cost  
+B) Net income less shareholder opportunity cost  
+C) Net income plus cost of equity capital  
+D) Net income less cost of equity capital  
+**_Correct Answer: B) Net income less shareholder opportunity cost_**
+
+2. When did the concept of residual income originate?
+
+A) 1900s  
+B) 1700s  
+C) 1800s  
+D) 2000s  
+**_Correct Answer: C) 1800s_**
+
+3. Which company utilized residual income in evaluating business segments in the 1920s?
+
+A) Ford  
+B) General Motors  
+C) Chrysler  
+D) Toyota  
+**_Correct Answer: B) General Motors_**
+
+4. What are some alternative names for residual income as mentioned in the text?
+
+A) Excess earnings  
+B) Abnormal profits  
+C) Value added income  
+D) All of the above  
+**_Correct Answer: D) All of the above_**
+==================================================
+Query 18 for ResidualIncomeValuation2018Summary:
+
+What are some questions based on the information provided? 
+
+1. What are the fundamental principles underlying the concept of residual income?
+   A. Cost of equity capital
+   B. Cost of debt capital
+   C. Net income
+   D. Opportunity cost for common shareholders
+   **_(Answer: D. Opportunity cost for common shareholders)_**
+
+2. When did residual income as an economic concept first originate?
+   A. 1920s
+   B. Early 1800s
+   C. Late 1800s
+   D. 2000s
+   **_(Answer: C. Late 1800s)_**
+
+3. Which section of the reading focuses on describing the relative strengths and weaknesses of residual income valuation?
+   A. Section 2
+   B. Section 3
+   C. Section 4
+   D. Section 5
+   **_(Answer: C. Section 4)_**
+
+4. How did General Motors use the concept of residual income in the past?
+   A. In marketing strategies
+   B. In evaluating business segments
+   C. In financial reporting
+   D. In employee management
+   **_(Answer: B. In evaluating business segments)_**
+==================================================
+Query 19 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income in the context of equity value estimation?
+   A. Net income plus cost of equity capital
+   B. Net income less cost of equity capital
+   C. Net income less cost of debt capital
+   D. Net income minus all capital costs
+   _B. Net income less cost of equity capital_
+
+2. When considering residual income models for estimating intrinsic value, what historical concept does it date back to?
+   A. 2000s
+   B. 1980s
+   C. 1920s
+   D. Late 1800s
+   _D. Late 1800s_
+
+3. What are some alternative names for residual income in different contexts?
+   A. Financial profit, ordinary earnings, profit maximization
+   B. Economic profit, abnormal earnings, economic value added
+   C. Net profit, shareholder wealth, business earnings
+   D. Gross income, accounting profit, operational surplus
+   _B. Economic profit, abnormal earnings, economic value added_
+
+4. Which section of the reading describes the relative strengths and weaknesses of residual income valuation compared to other methods?
+   A. Section 1
+   B. Section 2
+   C. Section 3
+   D. Section 4
+   _D. Section 4_
+==================================================
+Query 20 for ResidualIncomeValuation2018Summary:
+
+What historical concept does residual income date back to?
+A) Alfred Marshall in the late 1800s
+B) General Motors in the 1920s
+C) Young in 1999
+D) Lo and Lys in 2000
+
+**_Correct answer: A) Alfred Marshall in the late 1800s_**
+==================================================
+Query 21 for ResidualIncomeValuation2018Summary:
+
+What historical concept is residual income based on?
+
+- A) Net profit
+- B) Intrinsic value
+- C) Economic profit
+- D) Opportunity cost
+
+**Correct answer: C) Economic profit**
+==================================================
+Query 22 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income in the context of equity valuation?
+   A) Residual income is net income minus total capital cost.
+   B) Residual income is net income minus debt capital cost.
+   C) Residual income is net income minus opportunity cost of common shareholders.
+   D) Residual income is net income minus operating expenses.
+
+**Correct Answer: C) Residual income is net income minus opportunity cost of common shareholders.**
+
+2. Why do residual income models address a shortcoming of traditional accounting?
+   A) They include only the cost of debt capital.
+   B) They exclude the cost of equity capital.
+   C) They evaluate overvalued stocks.
+   D) They focus on gross income.
+
+**Correct Answer: B) They exclude the cost of equity capital.**
+
+3. When did the concept of residual income date back to?
+   A) 1920s
+   B) 1800s
+   C) 1940s
+   D) 2000s
+
+**Correct Answer: B) 1800s**
+
+4. What does the residual income model aim to estimate?
+   A) Intrinsic value of bonds
+   B) Intrinsic value of preferred stock
+   C) Intrinsic value of common stock
+   D) Intrinsic value of real estate
+
+**Correct Answer: C) Intrinsic value of common stock**
+==================================================
+Query 23 for ResidualIncomeValuation2018Summary:
+
+1. Who introduced the concept of residual income in the late 1800s?
+   A) John Smith
+   B) Alfred Marshall
+   C) William Brown
+   D) Elizabeth Johnson
+   **_Correct answer: B) Alfred Marshall_**
+
+2. What is residual income in relation to a company's capital?
+   A) It is the total income of the company
+   B) It is the income after all costs of capital have been considered
+   C) It is the same as net income
+   D) It is the income before accounting for common shareholders' opportunity costs
+   **_Correct answer: B) It is the income after all costs of capital have been considered_**
+
+3. How did General Motors use the concept of residual income in the 1920s?
+   A) To calculate employee salaries
+   B) To evaluate business segments
+   C) To determine marketing strategies
+   D) To assess competitor performance
+   **_Correct answer: B) To evaluate business segments_**
+
+4. Which section of the reading focuses on describing the relative strengths and weaknesses of residual income valuation?
+   A) Section 2
+   B) Section 3
+   C) Section 4
+   D) Section 5
+   **_Correct answer: C) Section 4_**
+==================================================
+Query 24 for ResidualIncomeValuation2018Summary:
+
+What is the main focus of residual income models of equity value?
+
+A) Accounting for all capital costs
+B) Maximizing net income
+C) Ignoring the cost of equity capital
+D) Generating short-term profits
+
+_**A) Accounting for all capital costs**_
+==================================================
+Query 25 for ResidualIncomeValuation2018Summary:
+
+1. When using residual income models for equity valuation, what does residual income represent?
+   A. Gross profit after taxes
+   B. Net income minus cost of debt capital
+   C. Total revenue minus cost of equity capital
+   **D. Net income minus charge for common shareholders' opportunity cost**
+
+2. What historical significance does residual income have?
+   A. Developed by General Motors in the 1970s
+   B. Originated from a theoretical concept in the mid-20th century
+   C. Traced back to the 21st century economic theories
+   **D. Dating back to Alfred Marshall in the late 1800s**
+
+3. In what context has residual income been utilized apart from equity valuation?
+   A. Measuring external market performance
+   B. Analyzing short-term profit margins
+   **C. Assessing internal corporate performance**
+   D. Evaluating industry macroeconomics
+
+4. How does residual income valuation compare to other methods in terms of relative strengths and weaknesses?
+   A. Residual income provides exact intrinsic value calculations
+   B. Residual income neglects the cost of equity capital
+   **C. Residual income considers all capital used in generating income**
+   D. Residual income is limited to single-stage company evaluations
+==================================================
+Query 26 for ResidualIncomeValuation2018Summary:
+
+1. Who developed the concept of residual income?
+   a) John Smith
+   b) Alfred Marshall
+   c) Adam Jones
+   d) William Brown
+   **_Correct answer: b) Alfred Marshall_**
+
+2. What is the key appeal of residual income models?
+   a) Including all capital costs
+   b) Ignoring equity capital costs
+   c) Focusing on short-term gains
+   d) Excluding interest expenses
+   **_Correct answer: a) Including all capital costs_**
+
+3. Which company used residual income in evaluating business segments in the 1920s?
+   a) Ford
+   b) Tesla
+   c) General Motors
+   d) Toyota
+   **_Correct answer: c) General Motors_**
+
+4. What are some other names used to refer to residual income?
+   a) Ordinary profit, traditional earnings
+   b) Basic income, regular profit
+   c) Economic profit, abnormal earnings
+   d) Standard revenue, consistent profit
+   **_Correct answer: c) Economic profit, abnormal earnings_**
+==================================================
+Query 27 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income in the context of equity valuation?
+   A) It is the total income generated by a company after deducting all expenses
+   B) It is the income left after considering all costs of capital
+   C) It is the profit before deducting interest expenses
+   D) It is the revenue generated from selling common stock
+   
+**Answer: B) It is the income left after considering all costs of capital**
+
+2. Why do residual income models have an appeal in investment practice and research?
+   A) They provide a detailed analysis of a company's revenue streams
+   B) They account for all costs of capital in generating income
+   C) They focus only on short-term financial performance
+   D) They ignore the cost of equity capital
+   
+**Answer: B) They account for all costs of capital in generating income**
+
+3. What historical figure first introduced the concept of residual income?
+   A) John Maynard Keynes
+   B) Alfred Marshall
+   C) Adam Smith
+   D) Karl Marx
+   
+**Answer: B) Alfred Marshall**
+
+4. How are residual income models utilized in estimating the intrinsic value of common stock?
+   A) By focusing solely on short-term profitability metrics
+   B) By ignoring the costs of equity capital
+   C) By incorporating all costs of capital in the valuation process
+   D) By using only traditional accounting methods
+   
+**Answer: C) By incorporating all costs of capital in the valuation process**
+==================================================
+Query 28 for ResidualIncomeValuation2018Summary:
+
+What are some key points regarding residual income models of equity value according to the provided information?  
+A) Residual income is calculated as net income minus cost of debt capital.  
+B) Traditional accounting always includes a charge for the cost of equity capital.  
+C) Residual income models ignore the costs of all capital used in generating income.  
+D) Residual income models explicitly recognize the costs of all capital used in generating income.  
+
+_Answer: D) Residual income models explicitly recognize the costs of all capital used in generating income._
+==================================================
+Query 29 for ResidualIncomeValuation2018Summary:
+
+1. Which economic concept is residual income based on?
+   A) Net revenue
+   B) Opportunity cost
+   C) Cost of goods sold
+   D) Gross profit
+**_Correct answer: B) Opportunity cost_**
+
+2. What is the appeal of residual income models compared to traditional accounting?
+   A) They focus on short-term profits
+   B) They only consider costs of debt capital
+   C) They acknowledge the cost of equity capital
+   D) They ignore all capital costs
+**_Correct answer: C) They acknowledge the cost of equity capital_**
+
+3. When did Alfred Marshall first introduce the concept of residual income?
+   A) Early 1900s
+   B) Late 1800s
+   C) Mid-20th century
+   D) Early 2000s
+**_Correct answer: B) Late 1800s_**
+
+4. What is another name for residual income?
+   A) Gross earnings
+   B) Abnormal expenses
+   C) Economic profit
+   D) Operating income
+**_Correct answer: C) Economic profit_**
+==================================================
+Query 30 for ResidualIncomeValuation2018Summary:
+
+What historical figure is credited with the concept of residual income?
+- A) Karl Marx
+- B) Adam Smith
+- C) Alfred Marshall
+- D) John Maynard Keynes
+
+The correct answer is _C) Alfred Marshall_.
+==================================================
+Query 31 for ResidualIncomeValuation2018Summary:
+
+What is the historical background of residual income models and its relevance in equity valuation?
+a) Residual income models are a recent development in investment practice 
+b) Residual income models do not consider the cost of equity capital 
+c) Residual income models have a long history dating back to the late 1800s 
+d) Residual income models only focus on the costs of debt capital
+
+The correct answer is: c) Residual income models have a long history dating back to the late 1800s
+==================================================
+Query 32 for ResidualIncomeValuation2018Summary:
+
+What is the historical background of residual income models for equity valuation?
+A) Residual income has been a recent development in the field of finance.
+B) General Motors was the first company to introduce residual income concepts in business evaluation.
+C) Residual income models have a long history, dating back to Alfred Marshall in the late 1800s.
+D) Residual income concepts were popularized in the 1950s.
+
+Correct Answer: C) Residual income models have a long history, dating back to Alfred Marshall in the late 1800s.
+==================================================
+Query 33 for ResidualIncomeValuation2018Summary:
+
+1. Who introduced the concept of residual income in the late 1800s?
+   A) Adam Smith
+   B) Alfred Marshall
+   C) John Maynard Keynes
+   D) Milton Friedman
+
+2. What does residual income represent in equity valuation models?
+   A) Net income minus capital costs
+   B) Gross income minus expenses
+   C) Total assets minus liabilities
+   D) Revenue minus taxes
+
+3. Why do residual income models address a shortcoming of traditional accounting?
+   A) They exclude all capital costs
+   B) They include a charge for the cost of equity capital
+   C) They focus solely on revenue
+   D) They disregard net income
+
+4. How does General Motors historically use the concept of residual income?
+   A) In marketing strategies
+   B) In evaluating business segments
+   C) In employee training
+   D) In financial reporting
+
+_1. B) Alfred Marshall_
+_2. A) Net income minus capital costs_
+_3. B) They include a charge for the cost of equity capital_
+_4. B) In evaluating business segments_
+==================================================
+Query 34 for ResidualIncomeValuation2018Summary:
+
+1. Who developed the concept of residual income back in the late 1800s?
+   A) John Smith
+   B) Alfred Marshall
+   C) Adam Jones
+   D) Robert Brown
+   **_Correct answer: B) Alfred Marshall_**
+
+2. What does residual income represent in the context of equity valuation?
+   A) Total income before deductions
+   B) Income after deducting all costs of capital
+   C) Income including only debt capital costs
+   D) Income excluding shareholders' opportunity costs
+   **_Correct answer: B) Income after deducting all costs of capital_**
+
+3. Which company used residual income concepts in evaluating business segments in the 1920s?
+   A) Ford
+   B) General Motors
+   C) Tesla
+   D) IBM
+   **_Correct answer: B) General Motors_**
+
+4. What are some other names used for residual income in modern contexts?
+   A) Regular profit, standard earnings
+   B) Basic income, routine profit
+   C) Economic profit, abnormal earnings
+   D) Simple revenue, standard profit
+   **_Correct answer: C) Economic profit, abnormal earnings_**
+==================================================
+Query 35 for ResidualIncomeValuation2018Summary:
+
+What is the historical background of residual income models?
+
+A) Predominantly used in the 21st century  
+B) Introduced by Alfred Marshall in the late 1800s  
+C) Originated from General Motors in the 1920s  
+D) Recently developed under the name of economic profit  
+
+**Answer: B) Introduced by Alfred Marshall in the late 1800s**
+==================================================
+Query 36 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income in the context of equity value?
+   A. Net income plus common shareholders' opportunity cost
+   B. Net income minus common shareholders' opportunity cost
+   C. Net income multiplied by common shareholders' opportunity cost
+   D. Net income divided by common shareholders' opportunity cost
+   **_Correct answer: B. Net income minus common shareholders' opportunity cost_**
+
+2. Why do residual income models appeal to investors and researchers?
+   A. Due to their complexity
+   B. Due to traditional accounting methods
+   C. Due to the exclusion of cost of equity capital
+   D. Due to their historical roots
+   **_Correct answer: C. Due to the exclusion of cost of equity capital_**
+
+3. Who is credited with the development of the residual income concept in the late 1800s?
+   A. General Motors
+   B. Alfred Marshall
+   C. Young
+   D. Lo and Lys
+   **_Correct answer: B. Alfred Marshall_**
+
+4. How does Section 4 of the reading compare residual income valuation to other methods?
+   A. Provides practical applications
+   B. Describes accounting issues
+   C. Outlines relative strengths and weaknesses
+   D. Summarizes the reading
+   **_Correct answer: C. Outlines relative strengths and weaknesses_**
+==================================================
+Query 37 for ResidualIncomeValuation2018Summary:
+
+What is the main concept of residual income models in equity valuation?
+
+A) Residual income is equal to net income plus all capital costs.  
+B) Residual income does not consider the cost of equity capital.  
+C) Residual income is the remaining income after considering all capital costs.  
+D) Residual income is equivalent to economic profit.
+
+Correct Answer: C) Residual income is the remaining income after considering all capital costs.
+==================================================
+Query 38 for ResidualIncomeValuation2018Summary:
+
+1. What is the concept of residual income based on?
+   - A) Net income only
+   - B) Costs of all capital used
+   - C) Debt capital expenses
+   - D) Opportunity cost of shareholders
+
+2. What is the appeal of residual income models compared to traditional accounting methods?
+   - A) They focus only on net income
+   - B) They include costs of debt capital but not equity
+   - C) They ignore the capital costs completely
+   - D) They have no impact on shareholder value
+
+3. When did Alfred Marshall first introduce the concept of residual income?
+   - A) 1920s
+   - B) Late 1800s
+   - C) 1990s
+   - D) 2000s
+
+4. Which section of the reading focuses on the practical applications of the residual income model?
+   - A) Section 2
+   - B) Section 3
+   - C) Section 4
+   - D) Section 5
+
+_**Correct Answers:**_
+1. B) Costs of all capital used
+2. B) They include costs of debt capital but not equity
+3. B) Late 1800s
+4. B) Section 3
+==================================================
+Query 39 for ResidualIncomeValuation2018Summary:
+
+What is the historical background of residual income models?
+A) Residual income is a modern concept developed in the 21st century.
+B) Residual income has its origins in the 1950s.
+C) Residual income dates back to Alfred Marshall in the late 1800s.
+D) Residual income was first introduced by General Motors in the early 1900s.
+
+**_C) Residual income dates back to Alfred Marshall in the late 1800s._**
+==================================================
+Query 40 for ResidualIncomeValuation2018Summary:
+
+What is the historical background of residual income models?
+
+A) Residual income models have been widely recognized since the early 2000s.
+
+B) Residual income has a long history, dating back to Alfred Marshall in the late 1800s.
+
+C) General Motors introduced residual income models in the 1930s.
+
+D) Residual income concepts were only recently implemented in corporate performance measurement.
+
+**Correct Answer:**
+B) Residual income has a long history, dating back to Alfred Marshall in the late 1800s.
+==================================================
+Query 41 for ResidualIncomeValuation2018Summary:
+
+What are some questions related to residual income models in equity valuation?  
+a) How does traditional accounting differ from residual income models?  
+b) What are some alternative measures used in practice alongside residual income models?  
+c) How did General Motors use the concept of residual income in the 1920s?  
+d) What are some practical applications of residual income models in valuing common stock?  
+
+**Correct Answer:**
+b) What are some alternative measures used in practice alongside residual income models?  
+==================================================
+Query 42 for ResidualIncomeValuation2018Summary:
+
+I can generate questions based on the information provided. Here is a sample question with four options:
+
+What term is used to describe the net income less a charge for common shareholders' opportunity cost in generating net income?
+
+A) Economic profit\
+B) Operating income\
+C) Gross profit\
+D) Net profit
+
+Correct answer: A) Economic profit
+==================================================
+Query 43 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income?
+
+   A) Net income minus a charge for common shareholders' opportunity cost
+   B) Gross income
+   C) Operating income
+   D) EBITDA
+
+**The correct answer is A) Net income minus a charge for common shareholders' opportunity cost.**
+
+2. When did the concept of residual income originate?
+
+   A) 1800s
+   B) 1900s
+   C) 2000s
+   D) 1700s
+
+**The correct answer is A) 1800s.**
+
+3. What term is sometimes used interchangeably with residual income?
+
+   A) Gross profit
+   B) Economic profit
+   C) Operating profit
+   D) Net profit
+
+**The correct answer is B) Economic profit.**
+
+4. How does residual income valuation differ from traditional accounting methods?
+
+   A) It includes a charge for the cost of equity capital
+   B) It excludes all capital costs
+   C) It only focuses on short-term profits
+   D) It considers only debt capital costs
+
+**The correct answer is A) It includes a charge for the cost of equity capital.**
+==================================================
+Query 44 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income based on?
+   a) Gross income
+   b) Net income
+   c) Operating income
+   d) Pretax income
+**_Correct answer: b) Net income_**
+
+2. Why do residual income models consider the cost of equity capital?
+   a) To overestimate the value of a company
+   b) To underestimate the value of a company
+   c) To reflect all capital costs in generating income
+   d) To exclude equity capital costs
+**_Correct answer: c) To reflect all capital costs in generating income_**
+
+3. When did residual income as an economic concept originate?
+   a) 1800s
+   b) 1900s
+   c) 2000s
+   d) 1700s
+**_Correct answer: a) 1800s_**
+
+4. How did General Motors utilize the concept of residual income in the 1920s?
+   a) Evaluated employee performance
+   b) Evaluated business segments
+   c) Determined executive compensation
+   d) Calculated profit margins
+**_Correct answer: b) Evaluated business segments_**
+==================================================
+Query 45 for ResidualIncomeValuation2018Summary:
+
+1. Residual income models of equity value focus on:
+   A) Gross income 
+   B) Operating income 
+   C) Net income 
+   D) EBITDA 
+   
+**The correct answer is C) Net income.**
+
+2. In residual income models, the cost of equity capital is:
+   A) Explicitly recognized 
+   B) Excluded from consideration 
+   C) Combined with debt capital 
+   D) Varied based on market conditions 
+   
+**The correct answer is A) Explicitly recognized.**
+
+3. Residual income can be referred to by all the following names EXCEPT:
+   A) Economic profit 
+   B) Abnormal earnings 
+   C) Return on assets 
+   D) Economic value added 
+   
+**The correct answer is C) Return on assets.**
+
+4. Which section of the reading focuses on describing the strengths and weaknesses of residual income valuation?
+   A) Section 2 
+   B) Section 3 
+   C) Section 4 
+   D) Section 5 
+   
+**The correct answer is C) Section 4.**
+==================================================
+Query 46 for ResidualIncomeValuation2018Summary:
+
+What historical figure is mentioned in relation to the concept of residual income?
+
+A) John Smith
+B) Charles Darwin
+C) Alfred Marshall
+D) Adam Smith
+
+**Correct Answer: C) Alfred Marshall**
+==================================================
+Query 47 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income?
+   A) Net income minus cost of debt capital
+   B) Remaining income after deducting costs of all capital
+   C) Common shareholders' opportunity cost
+   D) Income generated by equity capital
+   
+**Correct Answer: B) Remaining income after deducting costs of all capital**
+
+2. When did Alfred Marshall first mention the concept of residual income?
+   A) 1920s
+   B) 1800s
+   C) 1990s
+   D) 2000s
+
+**Correct Answer: B) 1800s**
+
+3. What is another term sometimes used interchangeably with residual income?
+   A) Gross income
+   B) Abnormal earnings
+   C) Operating income
+   D) Net profit
+
+**Correct Answer: B) Abnormal earnings**
+
+4. What section of the reading focuses on illustrating the use of the residual income model for valuing common stock?
+   A) Section 2
+   B) Section 3
+   C) Section 4
+   D) Section 5
+
+**Correct Answer: B) Section 3**
+==================================================
+Query 48 for ResidualIncomeValuation2018Summary:
+
+What historical figure first introduced the concept of residual income?
+1. John Maynard Keynes
+2. Adam Smith
+3. Alfred Marshall
+4. Karl Marx
+
+**_Correct answer: 3. Alfred Marshall_**
+==================================================
+Query 49 for ResidualIncomeValuation2018Summary:
+
+1. What is residual income in the context of equity valuation?
+   A) Net income minus interest expense
+   B) Net income less a charge for common shareholders' opportunity cost
+   C) Net income before considering the costs of capital
+   D) Net income after considering the costs of debt capital
+
+2. What does the residual income model aim to capture?
+   A) Only the cost of equity capital
+   B) Only the cost of debt capital
+   C) Costs of all capital used in generating income
+   D) Costs of operating expenses
+
+3. When did Alfred Marshall first introduce the concept of residual income?
+   A) Early 1900s
+   B) Late 1800s
+   C) Late 1700s
+   D) Early 2000s
+
+4. What are some alternative names for residual income?
+   A) Operating profit, net earnings
+   B) Economic profit, abnormal earnings
+   C) Gross income, revenue
+   D) Operating expenses, net profit
+
+_**Correct Answers:**_
+1. B) Net income less a charge for common shareholders' opportunity cost
+2. C) Costs of all capital used in generating income
+3. B) Late 1800s
+4. B) Economic profit, abnormal earnings
+==================================================
+Query 50 for ResidualIncomeValuation2018Summary:
+
+What is the historical background of residual income models?
+1. Residual income models have no historical significance.
+2. Residual income models were first developed in the early 2000s.
+3. Residual income as a concept dates back to Alfred Marshall in the late 1800s.
+4. Residual income models were popularized by General Motors in the 1980s.
+
+_Answer: 3. Residual income as a concept dates back to Alfred Marshall in the late 1800s._
+==================================================

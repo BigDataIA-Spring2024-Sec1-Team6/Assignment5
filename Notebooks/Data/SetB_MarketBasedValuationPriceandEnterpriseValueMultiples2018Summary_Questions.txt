@@ -1,0 +1,987 @@
+Query 1 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What is the main difference between price multiples and enterprise value multiples?
+   A. Price multiples focus on the market value of a company's stock, while enterprise value multiples focus on the total market value of all sources of a company's capital.
+   B. Price multiples are used for large companies, while enterprise value multiples are used for small companies.
+   C. Price multiples relate to historical financial data, while enterprise value multiples relate to future financial projections.
+   D. Price multiples consider EBITDA, while enterprise value multiples consider net assets.
+
+2. What is the intuition behind using price multiples as valuation tools?
+   A. Investors evaluate the market value of an entire enterprise relative to fundamental value.
+   B. Investors evaluate the price of a share of stock in relation to some measure of fundamental value per share.
+   C. Investors estimate a company's total capital in relation to per share earnings.
+   D. Investors look at a company's book value and compare it to its operating cash flow.
+
+3. How are enterprise value multiples different from momentum indicators?
+   A. Enterprise value multiples focus on historical performance, while momentum indicators focus on future patterns of returns.
+   B. Enterprise value multiples are used for individual securities, while momentum indicators are used for the entire enterprise.
+   C. Enterprise value multiples are based on accounting values, while momentum indicators are based on market values.
+   D. Enterprise value multiples are used to identify investment opportunities, while momentum indicators focus on investors' expectations.
+
+4. In what section of the reading are international considerations in using multiples discussed?
+   A. Section 2
+   B. Section 3
+   C. Section 4
+   D. Section 5
+
+_underline_1_
+_underline_2_
+_underline_3_
+_underline_4_
+==================================================
+Query 2 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are some characteristics of price multiples and enterprise value multiples as valuation tools?
+   A. They are complex and difficult to understand
+   B. They focus on the relationship between market value and fundamental value per share
+   C. They are only used by professional investors
+   D. They are only based on future expected values
+   
+2. What is the intuition behind using enterprise value multiples?
+   A. Evaluating the market value of an entire enterprise relative to its past performance
+   B. Evaluating the market value of a company's total capital relative to some fundamental value for the entire company
+   C. Evaluating the market value of a company based on its current market share
+   D. Evaluating the market value of a company based on its dividend payouts
+   
+3. What is the logic behind using momentum indicators in securities selection?
+   A. To identify potentially rewarding investment opportunities by looking at the relationship between market value and fundamental value
+   B. To focus on the time series of a security's own past values to predict future patterns of returns
+   C. To solely rely on future expected values to make investment decisions
+   D. To analyze a security's current market share and predict its future growth potential
+
+4. How is the reading organized in terms of discussing valuation tools like price multiples, enterprise value multiples, and momentum indicators?
+   A. Price multiples are discussed in Sections 3 and 4, enterprise value multiples in Section 5, and momentum indicators in Section 6
+   B. Enterprise value multiples are discussed in Sections 3 and 4, price multiples in Section 5, and momentum indicators in Section 6
+   C. Price and enterprise value multiples are discussed together in Section 2, while momentum indicators have a separate section in Section 3
+   D. Price multiples are discussed in Section 3, enterprise value multiples in Section 4, and momentum indicators in Section 6
+==================================================
+Query 3 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the main types of valuation indicators discussed in the text?
+   - A) Price and volume indicators
+   - B) Enterprise value and market cap indicators
+   - C) Price and enterprise value multiples
+   - D) Earnings and sales indicators
+   
+2. How do price multiples differ from enterprise value multiples in terms of what they relate to?
+   - A) Price multiples relate to market value, while enterprise value multiples relate to total capital value.
+   - B) Price multiples relate to cash flow, while enterprise value multiples relate to earnings per share.
+   - C) Price multiples relate to book value, while enterprise value multiples relate to market value.
+   - D) Price multiples relate to dividends, while enterprise value multiples relate to net assets.
+
+3. What is the main purpose of using momentum indicators in securities selection?
+   - A) To predict future patterns of returns
+   - B) To analyze past performance
+   - C) To determine current market value
+   - D) To calculate accounting ratios
+
+4. How are price multiples and enterprise value multiples similar?
+   - A) They both summarize the market value of a company's stock.
+   - B) They are both used to evaluate individual securities.
+   - C) They both focus on the total capital value of a company.
+   - D) They both provide information on future investment opportunities. 
+
+_ANSWER_END_
+==================================================
+Query 4 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and enterprise value multiples commonly used for?
+   - A. Evaluating marketing strategies
+   - B. Assessing employee performance
+   - C. Valuing securities and companies
+   - D. Forecasting macroeconomic trends
+
+2. How do investors use price multiples in stock valuation?
+   - A. By examining historical data trends
+   - B. By comparing market price to fundamental value
+   - C. By analyzing competitor's marketing strategies
+   - D. By focusing on short-term stock price movements
+
+3. What is the main purpose of using momentum indicators in securities selection?
+   - A. Identifying potentially rewarding investment opportunities
+   - B. Predicting macroeconomic trends accurately
+   - C. Analyzing long-term profitability of companies
+   - D. Assessing the effectiveness of corporate governance practices
+
+4. How does the organization of the reading structure the discussion on valuation indicators?
+   - A. By focusing on technical analysis only
+   - B. By comparing different investment strategies
+   - C. By analyzing historical stock price movements
+   - D. By presenting themes common to using price and enterprise value multiples
+==================================================
+Query 5 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some common themes in the use of price and enterprise value multiples as valuation tools?
+
+A. They summarize the relationship between total market value and fundamental value
+B. They are complex and difficult to communicate effectively
+C. They are primarily focused on short-term fluctuations in stock prices
+D. They provide detailed insights into a company's operational performance
+
+_**A. They summarize the relationship between total market value and fundamental value**_
+==================================================
+Query 6 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some topics covered in the reading regarding valuation tools and indicators such as multiples and momentum indicators?
+
+A) Section 1: The history of valuation tools development
+B) Section 2: Economic context of price and enterprise value multiples
+C) Section 3: Advanced mathematical models for valuation indicators
+D) Section 4: Practical applications of fundamental analysis techniques
+
+**_Correct answer: B) Section 2: Economic context of price and enterprise value multiples_**
+==================================================
+Query 7 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and enterprise value multiples primarily used for in valuation analysis?
+   - A) Predicting market trends
+   - B) Analyzing competitors' stock performance
+   - C) Assessing a company's stock value relative to fundamental measures
+   - D) Identifying macroeconomic indicators
+   
+2. What is the key difference between price multiples and enterprise value multiples?
+   - A) Price multiples focus on market price per share, while enterprise value multiples focus on total market value of a company
+   - B) Price multiples are based on future earnings, while enterprise value multiples are based on historical performance
+   - C) Price multiples are used for long-term investments, while enterprise value multiples are used for short-term gains
+   - D) Price multiples are more complex to calculate than enterprise value multiples
+   
+3. Why are multiples considered appealing as valuation tools?
+   - A) They provide detailed financial projections
+   - B) They simplify the relationship between a company's market value and fundamental metrics
+   - C) They only consider short-term stock performance
+   - D) They are only applicable to large corporations
+   
+4. How do momentum indicators differ from price and enterprise value multiples in terms of focus?
+   - A) Momentum indicators assess long-term stock performance, while multiples focus on short-term gains
+   - B) Momentum indicators look at past stock behavior to predict future returns, while multiples focus on current stock value
+   - C) Momentum indicators are only used in specific industry sectors, while multiples are universal
+   - D) Momentum indicators are solely based on market sentiment, while multiples are based on financial fundamentals
+   
+**Underlined correct answers:**  
+1. C) Assessing a company's stock value relative to fundamental measures  
+2. A) Price multiples focus on market price per share, while enterprise value multiples focus on total market value of a company  
+3. B) They simplify the relationship between a company's market value and fundamental metrics  
+4. B) Momentum indicators look at past stock behavior to predict future returns, while multiples focus on current stock value  
+==================================================
+Query 8 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the two main types of valuation tools discussed in the text?
+    A. Price multiples and market multiples
+    B. Price multiples and momentum indicators
+    C. Enterprise value multiples and momentum indicators
+    D. Enterprise value multiples and fundamental ratios
+
+2. What do price multiples focus on?
+    A. Evaluating the market value of an entire enterprise
+    B. Relating total market value to measures of fundamental value per share
+    C. Identifying potentially rewarding investment opportunities
+    D. Analyzing the time series of past values
+
+3. How are enterprise value multiples different from price multiples?
+    A. Enterprise value multiples focus on per share fundamentals
+    B. Price multiples relate the total market value of the company's capital
+    C. Enterprise value multiples focus on the market value of a single share
+    D. Price multiples evaluate EBITDA, sales, or operating cash flow
+
+4. What is the purpose of using momentum indicators?
+    A. Identifying undervalued stocks
+    B. Generating multiple valuation measures
+    C. Providing information on future returns
+    D. Analyzing market capitalization fluctuations
+==================================================
+Query 9 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the main types of valuation tools discussed in the text?
+   A. Price multiples only
+   B. Enterprise value multiples only
+   C. Momentum indicators only
+   D. Price multiples and enterprise value multiples
+
+2. How do price multiples and enterprise value multiples differ?
+   A. Price multiples focus on the entire company, while enterprise value multiples focus on individual securities
+   B. Price multiples relate market price to fundamental value, while enterprise value multiples relate total market value to fundamental value
+   C. Price multiples summarize market value in one number, while enterprise value multiples use multiple indicators
+   D. Price multiples are used for long-term investments, while enterprise value multiples are used for short-term investments
+
+3. What is the purpose of using momentum indicators in securities selection?
+   A. To provide information on future patterns of returns
+   B. To summarize in a single number the relationship between market value and fundamental quantity
+   C. To focus on comparing different companies using multiples
+   D. To evaluate the economic context of a company
+
+4. How is the reading organized in terms of discussing valuation tools?
+   A. The reading is focused on practical issues only
+   B. Sections are dedicated to price multiples, enterprise value multiples, international considerations, and momentum indicators
+   C. The reading discusses only the economic context of using multiples
+   D. The reading provides examples of valuation tools without categorizing them
+==================================================
+Query 10 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some common themes related to the use of price and enterprise value multiples as valuation tools?
+
+A) Complexity and difficulty in communication  
+B) Use of past values to predict future returns  
+C) Relationship between market value and fundamental quantity  
+D) Emphasis on technical indicators over fundamental indicators  
+
+**_Correct answer: C) Relationship between market value and fundamental quantity_**
+==================================================
+Query 11 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some common themes related to the use of price and enterprise value multiples as valuation tools?
+A) Multiples are only useful for evaluating individual securities
+B) Multiples relate the market value of a company’s stock to some fundamental quantity 
+C) Momentum indicators provide the same kind of information as price multiples
+D) Multiples are complex and difficult to communicate effectively
+
+_The correct answer is B) Multiples relate the market value of a company’s stock to some fundamental quantity_
+==================================================
+Query 12 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What type of valuation indicators are price and enterprise value multiples?
+A) Momentum indicators
+B) Fundamental indicators
+C) Market indicators
+D) Valuation indicators
+
+Correct answer: D) Valuation indicators
+==================================================
+Query 13 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the two main types of valuation tools discussed in the text?
+   - A) Price multiples and investment ratios
+   - B) Equity multiples and enterprise value multiples
+   - C) Price multiples and enterprise value multiples
+   - D) Accounting ratios and momentum indicators
+
+2. How are price multiples defined in the context of valuation tools?
+   - A) Ratios of market price to expected returns
+   - B) Ratios of market price to fundamental value per share
+   - C) Ratios of market price to future cash flows
+   - D) Ratios of market price to historical stock prices
+
+3. What is the main intuition behind enterprise value multiples?
+   - A) Evaluating market value of a company's stock relative to earnings per share
+   - B) Evaluating market value of an entire enterprise relative to fundamental values
+   - C) Evaluating market value of a company's equity relative to cash flow
+   - D) Evaluating market value of a company's assets relative to book value
+
+4. How are momentum indicators described in the text?
+   - A) Ratios of market price to future stock prices
+   - B) Indicators relating to a security's future returns based on its past values
+   - C) Ratios of market price to historical earnings
+   - D) Indicators relating price multiples to enterprise value multiples
+
+_UNDERLINE_START_5. In what section of the reading are international considerations in using multiples discussed?
+   - A) Section 2
+   - B) Section 3
+   - C) Section 4
+   - D) Section 5
+_UNDERLINE_END_
+==================================================
+Query 14 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some topics covered in a reading on valuation tools and multiples?
+
+A) Historical analysis of stock prices   
+B) Use of momentum indicators in valuation   
+C) Detailed case studies on individual companies   
+**D) Economic context of price and enterprise value multiples**  
+==================================================
+Query 15 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some key aspects of using price and enterprise value multiples as valuation tools?
+
+A) Multiples summarize in a single number the relationship between the market value of a company's stock and some fundamental quantity.
+B) Multiples can only be related to earnings per share and net assets.
+C) Enterprise value multiples are solely focused on the market value of a company's stock.
+D) Price multiples reflect the total market value of a company's capital.
+
+_**A)**_ Multiples summarize in a single number the relationship between the market value of a company's stock and some fundamental quantity.
+==================================================
+Query 16 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some key features of valuation tools like price and enterprise value multiples?
+
+A) They are complex and difficult to understand
+B) They provide a single number summarizing the relationship between market value and fundamental value
+C) They are only used for evaluating individual securities
+D) They are not effective in identifying rewarding investment opportunities
+
+_**B) They provide a single number summarizing the relationship between market value and fundamental value**_
+==================================================
+Query 17 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. Which of the following best describes the intuition behind price multiples?
+   - A) Price multiples relate the total market value of a company to a measure of fundamental value for the entire company.
+   - B) Price multiples evaluate the market value of an entire enterprise relative to the amount of earnings it generates.
+   - C) Price multiples summarize in a single number the relationship between the market value of a company's stock and some fundamental quantity.
+   - D) Price multiples focus on identifying potentially rewarding investment opportunities based on future patterns of returns.
+
+2. What distinguishes enterprise value multiples from price multiples?
+   - A) Enterprise value multiples evaluate the market value of an entire enterprise relative to the amount of earnings it generates.
+   - B) Enterprise value multiples summarize in a single number the relationship between the market value of a company's stock and some fundamental quantity.
+   - C) Enterprise value multiples are ratios of a stock's market price to some measure of fundamental value per share.
+   - D) Enterprise value multiples relate the total market value of all sources of a company's capital to a measure of fundamental value for the entire company.
+
+3. How are multiples as valuation indicators similar to momentum indicators?
+   - A) Multiples summarize in a single number the relationship between the market value of a company's stock and some fundamental quantity.
+   - B) Multiples may provide information on future patterns of returns over some time horizon similarly to momentum indicators.
+   - C) Multiples evaluate the market value of an entire enterprise relative to the amount of earnings it generates.
+   - D) Multiples focus on identifying potentially rewarding investment opportunities based on future patterns of returns.
+
+4. What is the purpose of momentum indicators in relation to valuation indicators like multiples?
+   - A) To identify potentially rewarding investment opportunities by focusing on future returns patterns.
+   - B) To summarize in a single number the relationship between the market value of a company's stock and its fundamental quantity.
+   - C) To evaluate the total market value of all sources of a company's capital against a measure of fundamental value for the entire company.
+   - D) To provide information on past values of a stock's price or fundamental values. 
+
+(Answers are underlined)
+==================================================
+Query 18 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and enterprise value multiples used for in valuation analysis?
+   - A) They are used to predict future stock prices
+   - B) They summarize the relationship between market value and fundamental value
+   - C) They focus on historical performance of a company
+   - D) They are irrelevant in investment decision-making
+  
+2. How do momentum indicators differ from price and enterprise value multiples?
+   - A) They focus on past performance of a stock
+   - B) They are used to predict market trends
+   - C) They provide information on future returns over time
+   - D) They are not considered as valuation tools
+  
+3. In what section of the reading is the use of price multiples discussed?
+   - A) Section 2
+   - B) Section 4
+   - C) Section 6
+   - D) Section 5
+
+4. Why are multiples considered appealing as valuation indicators?
+   - A) They offer complex calculations
+   - B) They provide detailed company performance analysis
+   - C) They summarize the relationship between market value and fundamental value in a single number
+   - D) They are difficult to interpret
+==================================================
+Query 19 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are some key characteristics of price multiples and enterprise value multiples as valuation tools?
+   - A) They are complex to use and communicate.
+   - B) They provide a single number summarizing the relationship between stock market value and fundamental quantities.
+   - C) They are only relevant for evaluating individual securities.
+   - D) They focus on predicting future patterns of returns over a short time horizon.
+
+2. How do momentum indicators differ from price and enterprise value multiples?
+   - A) Momentum indicators are used for long-term investment strategies.
+   - B) Momentum indicators focus on the relationship between stock market value and fundamental quantities.
+   - C) Momentum indicators provide information on future returns based on historical values.
+   - D) Momentum indicators are not considered as valuation indicators.
+
+3. What is the logic behind using momentum indicators as valuation tools?
+   - A) They offer a simple and direct comparison of different securities.
+   - B) They provide insights into potential rewarding investment opportunities based on future return patterns.
+   - C) They focus on a company's total capital value rather than per-share value.
+   - D) They exclusively consider past financial performance rather than future expectations.
+
+4. In which section of the reading are international considerations in using multiples discussed?
+   - A) Section 2
+   - B) Section 3
+   - C) Section 5
+   - D) Section 6
+
+_(Correct answers are underlined)_
+==================================================
+Query 20 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. Which type of multiples relate the total market value of all sources of a company’s capital to a measure of fundamental value for the entire company?
+   - A) Price multiples
+   - B) Momentum indicators
+   - C) Enterprise value multiples
+   - D) Earnings per share multiples
+
+2. What is the intuition behind price multiples?
+   - A) Evaluating the expected return on investment
+   - B) Assessing a company's future growth potential
+   - C) Comparing the market price to fundamental value per share
+   - D) Predicting changes in market volatility
+
+3. What is the logic behind the use of momentum indicators?
+   - A) Identifying potentially rewarding investment opportunities
+   - B) Assessing a company's total market value
+   - C) Relating price and earnings to past values
+   - D) Gauge the overall market sentiment
+
+4. In which section of the reading are international considerations in using multiples presented?
+   - A) Section 2
+   - B) Section 3
+   - C) Section 5
+   - D) Section 7
+
+**Underline the correct answers.**
+==================================================
+Query 21 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and how are they used in valuation?
+   A. They relate the market value of a company's stock to a measure of fundamental value for the entire company.
+   B. They summarize the relationship between the market value of a company's stock and some fundamental quantity such as earnings, sales, or book value.
+   C. They relate the total market value of all sources of a company's capital to a measure of fundamental value per share.
+   D. They provide information on future patterns of returns over some time horizon.
+
+2. What is the intuition behind enterprise value multiples?
+   A. Investors evaluate the price of a share of stock based on what a share buys in terms of per share earnings.
+   B. Investors evaluate the market value of an entire enterprise relative to the amount of EBITDA, sales, or operating cash flow it generates.
+   C. Investors evaluate the relationship between market value and expected value of a security.
+   D. Investors evaluate the momentum of a stock in the market.
+
+3. How do momentum indicators differ from price and enterprise value multiples as valuation tools?
+   A. Momentum indicators focus on identifying potentially rewarding investment opportunities based on past values.
+   B. Price multiples focus on summarizing the relationship between market value and fundamental quantities.
+   C. Enterprise value multiples relate the market value to a measure of fundamental value per share.
+   D. Momentum indicators relate the total market value of all sources of a company's capital to a measure of fundamental value.
+
+4. What is the key benefit of using multiples as valuation tools?
+   A. They provide complex and detailed information about a company's financial health.
+   B. They offer simplicity in use and ease in communication.
+   C. They are solely focused on past performance of a security.
+   D. They can predict precise future stock prices.
+==================================================
+Query 22 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are some common characteristics of price and enterprise value multiples?
+   - A) Complexity in use and difficulty in communication
+   - B) Easy utilization and straightforward communication
+   - C) Lack of relationship with fundamental value
+   - D) Unreliability in evaluating market value
+
+2. How do investors evaluate the market value of an entire enterprise with enterprise value multiples?
+   - A) Relative to the amount of EBITDA it generates
+   - B) Relative to the number of shares outstanding
+   - C) Relative to the company's total assets
+   - D) Relative to the company's revenue 
+
+3. What is the purpose of using momentum indicators in securities selection?
+   - A) To identify undervalued securities
+   - B) To predict future patterns of returns
+   - C) To analyze historical stock performance
+   - D) To calculate book value per share
+
+4. How is each multiple treated in the reading?
+   - A) In isolation without any context
+   - B) With a common format including usage considerations and relationship to investors’ expectations
+   - C) With a focus on complexity and analysis difficulties
+   - D) With a comparison to unrelated historical data
+==================================================
+Query 23 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and how are they used for valuation?
+   - A) Price multiples are ratios of market price to book value per share. 
+   - B) Price multiples summarize the relationship between market value and fundamental quantity for the entire company. 
+   - C) Price multiples relate market price to some measure of fundamental value per share and are used to judge whether a stock is fairly valued.
+   - D) Price multiples provide information on future patterns of returns over some time horizon.
+
+2. Why are enterprise value multiples commonly used in valuation?
+   - A) Enterprise value multiples summarize in a single number the relationship between market value of a company's stock and earnings per share.
+   - B) Enterprise value multiples relate total market value of all sources of capital to a measure of fundamental value for the entire company.
+   - C) Enterprise value multiples are used to identify potentially rewarding investment opportunities.
+   - D) Enterprise value multiples focus on price changes over time.
+
+3. How do momentum indicators differ from price and enterprise value multiples as valuation tools?
+   - A) Momentum indicators summarize the relationship between market value of a company's stock and some fundamental quantity per share.
+   - B) Momentum indicators relate total market value of all sources of capital to a measure of fundamental value for the entire company.
+   - C) The logic behind momentum indicators is to provide information on future patterns of returns over some time horizon.
+   - D) Momentum indicators are used to judge whether a stock is fairly valued.
+==================================================
+Query 24 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some common themes in the use of price and enterprise value multiples as valuation tools?
+
+A) They provide a single number summary of the relationship between a company's market value and some fundamental quantity
+B) They are complex and difficult to use
+C) They are only useful for certain types of companies
+D) They are not related to investors' expectations about fundamentals
+
+_The correct answer is A) They provide a single number summary of the relationship between a company's market value and some fundamental quantity_
+==================================================
+Query 25 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and how are they used in valuation?
+   - A) Ratios of a stock's market price to the total capital value of the company
+   - B) Ratios of a stock's market price to some measure of fundamental value per share
+   - C) Ratios of a stock's market price to its book value
+   - D) Ratios of a stock's market price to its historical stock price
+
+2. How do enterprise value multiples differ from price multiples?
+   - A) Enterprise value multiples focus on per-share earnings, while price multiples focus on total earnings
+   - B) Enterprise value multiples evaluate the entire company's market value to a fundamental measure, while price multiples focus on individual stock valuation
+   - C) Enterprise value multiples use historical stock prices, while price multiples focus on current market prices
+   - D) Enterprise value multiples are used for growth companies, while price multiples are used for value companies
+
+3. What is the intuition behind using price multiples as valuation tools?
+   - A) Investors judge the market value of a company's entire capital structure
+   - B) Investors evaluate the price of a share of stock relative to some fundamental value per share
+   - C) Investors focus on the total market value of an enterprise relative to its earnings before interest and taxes
+   - D) Investors identify rewarding investment opportunities based on historical stock prices
+
+4. How do momentum indicators differ from price and enterprise value multiples?
+   - A) Momentum indicators focus on capital structure, while multiples focus on per-share metrics
+   - B) Momentum indicators relate past or expected values to current values, while multiples assess the relationship of market value to fundamentals
+   - C) Momentum indicators evaluate stock prices, while multiples evaluate company-wide metrics
+   - D) Momentum indicators are used for long-term investments, while multiples are used for short-term trading opportunities
+
+Correct answers are underlined.
+==================================================
+Query 26 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some common themes related to the use of price and enterprise value multiples?
+
+A) Multiples provide detailed information on a company's future performance.
+B) Multiples are complex indicators that require advanced financial knowledge.
+C) Multiples summarize the relationship between market value and fundamental value.
+D) Multiples are only used by professional investors. 
+
+_**C) Multiples summarize the relationship between market value and fundamental value.**_
+==================================================
+Query 27 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What is the purpose of using price and enterprise value multiples as valuation tools?
+   - A) To predict stock market volatility
+   - B) To communicate the relationship between market value and fundamental value
+   - C) To determine the optimal capital structure of a company
+   - D) To forecast macroeconomic indicators
+
+2. How do price multiples differ from enterprise value multiples in terms of what they relate market value to?
+   - A) Price multiples relate market value to overall company performance, while enterprise value multiples relate market value to per-share metrics.
+   - B) Price multiples relate market value to per-share metrics, while enterprise value multiples relate market value to overall company performance.
+   - C) Price multiples relate market value to future growth prospects, while enterprise value multiples relate market value to current earnings.
+   - D) Price multiples and enterprise value multiples are essentially the same and can be used interchangeably.
+
+3. What is the advantage of using multiples as valuation indicators?
+   - A) They provide exact valuation figures for a company.
+   - B) They simplify the evaluation process by condensing complex information into a single number.
+   - C) They are only applicable to large corporations and not to smaller companies.
+   - D) They are difficult to communicate to investors due to their complexity.
+
+4. How do momentum indicators differ from price and enterprise value multiples as valuation tools?
+   - A) Momentum indicators focus on past performance, while multiples focus on future earnings.
+   - B) Momentum indicators evaluate the current market value, while multiples assess fundamental value.
+   - C) Momentum indicators predict short-term market trends, while multiples analyze long-term investment opportunities.
+   - D) Momentum indicators complement multiples by providing information on future return patterns. 
+
+_answer options are underlined for ease of identification_
+==================================================
+Query 28 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What is the focus of momentum indicators when used as valuation tools?
+
+A) Assessing the market value of an entire enterprise
+B) Evaluating the price of a share of stock
+C) Identifying potentially rewarding investment opportunities
+D) Relating the total market value of all sources of a company's capital to a fundamental value
+
+The correct answer is _C) Identifying potentially rewarding investment opportunities_.
+==================================================
+Query 29 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the key characteristics of price multiples?
+    A. They relate the total market value of a company's capital to fundamental value.
+    B. They focus on the market value of an entire enterprise.
+    C. They simplify the relationship between market value and fundamental quantity.
+    D. They are used to identify potentially rewarding investment opportunities.
+
+2. What do enterprise value multiples evaluate in a company?
+    A. Market value of stock relative to earnings.
+    B. Relationship between market value and fundamentals.
+    C. Market value of an entire enterprise relative to various metrics.
+    D. Investors' expectations about future patterns of returns.
+
+3. How do momentum indicators differ from price and enterprise value multiples?
+    A. They focus on the simplicity and ease of communication in valuation.
+    B. They relate either price or fundamentals to past values or expected values.
+    C. They summarize in a single number the relationship between market value and fundamental quantities.
+    D. They evaluate the total market value of an enterprise relative to fundamental value.
+
+4. What is the purpose of using momentum indicators as valuation tools?
+    A. To evaluate the market value of a company's stock relative to fundamental quantity.
+    B. To identify potentially rewarding investment opportunities based on future return patterns.
+    C. To simplify the relationship between market value and earnings.
+    D. To provide information on investors' expectations about fundamental value per share. 
+
+Correct answers are marked in bold.
+==================================================
+Query 30 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the key characteristics of price and enterprise value multiples?
+   A. They are complex and difficult to interpret
+   B. They summarize the relationship between market value and fundamental quantities
+   C. They focus on historical stock prices
+   D. They are only relevant for a specific industry
+
+2. How do investors evaluate the price of a stock using multiples?
+   A. By looking at the company's market share
+   B. By considering what a share buys in terms of fundamental value per share
+   C. By analyzing the company's management team
+   D. By focusing on short-term stock performance
+
+3. What is the logic behind using momentum indicators in securities selection?
+   A. To predict future stock splits
+   B. To identify rewarding investment opportunities based on past performance
+   C. To track daily stock price fluctuations
+   D. To focus on stock liquidity
+
+4. How is the reading organized with regards to the discussion of valuation indicators?
+   A. It starts with international considerations and then moves to price multiples
+   B. It presents enterprise value multiples first, followed by price multiples
+   C. It covers momentum indicators first before touching on price multiples
+   D. It concludes with a discussion on fundamental value metrics
+==================================================
+Query 31 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What type of valuation indicators are discussed in the reading?
+
+1. Price multiples
+2. Enterprise value multiples
+3. Momentum indicators
+4. All of the above
+
+The correct answer is _4. All of the above_.
+==================================================
+Query 32 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some key considerations when using price and enterprise value multiples as valuation tools?
+
+A. Multiples summarize the relationship between the market value of a company's stock and various fundamental quantities such as earnings, sales, or book value.  
+B. Price multiples provide a snapshot of a stock's market price compared to some fundamental value per share, while enterprise value multiples compare the total market value of all sources of a company's capital to a measure of fundamental value for the entire company.  
+C. Momentum indicators focus on identifying potentially rewarding investment opportunities by relating price or fundamentals to past values or expected values, complementing the focus of price and enterprise value multiples.  
+D. All of the above
+
+_**D. All of the above**_
+==================================================
+Query 33 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are the different types of valuation indicators commonly used in securities selection?
+1. Price multiples and momentum indicators
+2. Enterprise value multiples and momentum indicators
+3. Price multiples and momentum indicators
+4. Enterprise value multiples and momentum indicators
+
+_1. Price multiples and momentum indicators_
+==================================================
+Query 34 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the key characteristics of price and enterprise value multiples?
+   - A) They are complex and difficult to interpret
+   - B) They provide a single number relationship between market value and fundamental quantity
+   - C) They are only applicable to individual securities
+   - D) They are commonly used for momentum analysis
+
+2. What is the main purpose of momentum indicators in securities selection?
+   - A) To determine the fair value of a stock
+   - B) To provide a single number relationship between market value and fundamental quantity
+   - C) To identify potentially rewarding investment opportunities based on future return patterns
+   - D) To assess the accounting values of a company
+
+3. How is the reading organized in terms of discussing valuation tools?
+   - A) Sections on historical data analysis
+   - B) Sections on international market trends
+   - C) Sections focused on using multiples and momentum indicators
+   - D) Sections on corporate governance practices
+
+4. What is the focus of Section 4 in the reading?
+   - A) Analyzing historical stock prices
+   - B) Discussing international considerations in valuation analysis
+   - C) Presenting insights on enterprise value multiples
+   - D) Exploring the impact of market psychology on stock prices
+==================================================
+Query 35 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and enterprise value multiples primarily used for in valuation analysis?
+   - A) Evaluating future growth potential
+   - B) Comparing the market value to fundamental measures
+   - C) Predicting short-term market trends
+   - D) Estimating dividend yields
+
+2. How do price multiples differ from enterprise value multiples in terms of what they relate market value to?
+   - A) Price multiples relate to earnings per share, while enterprise value multiples relate to total capital value.
+   - B) Price multiples relate to total capital value, while enterprise value multiples relate to earnings per share.
+   - C) Price multiples relate to book value, while enterprise value multiples relate to dividends.
+   - D) Price multiples relate to sales, while enterprise value multiples relate to market share.
+
+3. What is the key advantage of using multiples as valuation tools?
+   - A) They provide precise forecasts of future stock prices.
+   - B) They simplify complex valuation analysis into a single number.
+   - C) They eliminate the need for comparing with industry benchmarks.
+   - D) They focus solely on past performance rather than future potential.
+
+4. How do momentum indicators differ from price and enterprise value multiples as valuation tools?
+   - A) Momentum indicators focus on historical performance, while multiples focus on future expectations.
+   - B) Momentum indicators highlight short-term market trends, while multiples compare market value to fundamentals.
+   - C) Momentum indicators simplify valuation analysis by providing a single number, similar to multiples.
+   - D) Momentum indicators are used to estimate dividend yields, while multiples are used for comparing market share.
+==================================================
+Query 36 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some common themes related to the use of price and enterprise value multiples as valuation tools?
+
+1. Multiples provide detailed information on a company's financial health
+2. Multiples offer a simple and easy way to compare companies based on fundamental quantities
+3. Multiples are only used by professional investors for complex valuation assessments
+4. Multiples solely focus on a company's market capitalization rather than its fundamentals
+
+_**Answer: 2. Multiples offer a simple and easy way to compare companies based on fundamental quantities**_
+==================================================
+Query 37 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What is the main purpose of using price multiples and enterprise value multiples as valuation tools?
+
+A) To predict short-term fluctuations in stock prices accurately.
+B) To simplify the evaluation of a company's stock or enterprise value relative to fundamental measures.
+C) To determine the exact intrinsic value of a company's stock.
+D) To replace traditional fundamental analysis techniques in stock valuation.
+
+The correct answer is _B) To simplify the evaluation of a company's stock or enterprise value relative to fundamental measures._
+==================================================
+Query 38 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What is the focus of price multiples as valuation tools?
+
+A) Evaluating the market value of an entire enterprise  
+B) Relating total market value of all sources of capital to fundamental value  
+C) Judging whether a share of stock is fairly valued, overvalued, or undervalued based on per share earnings, net assets, or cash flow  
+D) Identifying potentially rewarding investment opportunities based on time series analysis  
+
+Correct answer: C) Judging whether a share of stock is fairly valued, overvalued, or undervalued based on per share earnings, net assets, or cash flow
+==================================================
+Query 39 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What is the purpose of momentum indicators in securities selection?
+A) To determine the current market value of a company
+B) To identify potentially rewarding investment opportunities
+C) To calculate the net assets of a company
+D) To assess the sales growth of a company
+**_B) To identify potentially rewarding investment opportunities_**
+==================================================
+Query 40 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some key themes common to the use of any price or enterprise value multiple as discussed in the reading?
+
+A) Multiple may be viewed as valuation indicators relating to individual securities <u>(Correct)</u>
+B) Momentum indicators are the primary focus when using multiples
+C) Multiples simplify the understanding of a company's financial health
+D) Price multiples are always more accurate than enterprise value multiples
+==================================================
+Query 41 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are the two main types of valuation tools discussed in the passage?
+   A. Price and enterprise value multiples
+   B. Momentum and turnover indicators
+   C. Revenue and profit ratios
+   D. Asset and liability metrics
+
+2. How do investors evaluate the price of a share of stock using multiples?
+   A. By comparing it to historical prices
+   B. By considering its relationship to fundamental value per share
+   C. By analyzing market trends
+   D. By focusing on total market value
+
+3. What is the purpose of momentum indicators in securities selection?
+   A. To identify undervalued stocks
+   B. To predict future patterns of returns
+   C. To calculate intrinsic value
+   D. To assess market volatility
+
+4. How is the reading organized in terms of discussing valuation tools?
+   A. It starts with momentum indicators and ends with price multiples
+   B. It focuses on international considerations first, followed by practical issues
+   C. It covers price multiples, then enterprise value multiples, and ends with momentum indicators
+   D. It begins with practice problems and concludes with a summary
+==================================================
+Query 42 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are common themes to consider when using price and enterprise value multiples as valuation tools?
+
+A) The application of momentum indicators
+B) The relationship between market value and book value
+C) The use of external expert opinions
+D) The focus on short-term trading strategies
+
+_**B) The relationship between market value and book value**_
+==================================================
+Query 43 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples based on?
+   - A) Market value of an entire enterprise
+   - B) Total market value of all sources of a company’s capital
+   - C) Measure of fundamental value per share
+   - D) Expected values of a stock
+
+2. How are enterprise value multiples related to fundamental value?
+   - A) Evaluate market value of an enterprise relative to future patterns of returns
+   - B) Relate market value of a company’s stock to some fundamental quantity
+   - C) Focus on per share earnings, net assets, or cash flow
+   - D) Evaluate total market value of all sources of a company's capital
+
+3. What is the purpose of using momentum indicators in securities selection?
+   - A) Identify overvalued securities
+   - B) Provide information on future patterns of returns
+   - C) Determine market value of a company's stock
+   - D) Evaluate accuracy of financial statements
+
+4. How is the treatment of price multiples organized in the reading?
+   - A) Common theme followed by valuation based on comparables
+   - B) Use of momentum indicators in an economic context
+   - C) Relationship of the multiple to investors’ expectations about fundamentals
+   - D) Evaluation of enterprise value multiples through historical data
+==================================================
+Query 44 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and enterprise value multiples commonly used for?
+   - A. Assessing consumer preferences
+   - B. Evaluating historical performance
+   - C. Valuing investment opportunities
+   - D. Monitoring economic growth
+   **Underline the correct answer.**
+
+2. How do investors typically use price multiples to evaluate a stock?
+   - A. By analyzing marketing strategies
+   - B. By comparing market price to fundamental value per share
+   - C. By focusing on short-term stock price movements
+   - D. By predicting future stock splits
+   **Underline the correct answer.**
+
+3. What aspect of a company do enterprise value multiples relate to?
+   - A. Total market value of all sources of a company’s capital
+   - B. Historical earnings per share
+   - C. Dividend yield
+   - D. Debt-to-equity ratio
+   **Underline the correct answer.**
+
+4. What is the key benefit of using multiples as valuation tools?
+   - A. Complexity in use
+   - B. Difficulty in communication
+   - C. Simplicity in use and ease in communication
+   - D. High accuracy in short-term predictions
+   **Underline the correct answer.**
+==================================================
+Query 45 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some common themes to consider when using price and enterprise value multiples as valuation tools?
+A) They are complex and difficult to understand
+B) They provide a single number to summarize the relationship between market value and some fundamental quantity
+C) They are only useful for short-term investment strategies
+D) They can only be applied to certain types of companies
+
+**_Correct answer: B)_**
+==================================================
+Query 46 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What are some questions that may be addressed in the reading?
+
+A) How do momentum indicators compare to price and enterprise value multiples?
+B) What are the characteristics of valuation multiples?
+C) How are valuation indicators useful in selecting securities?
+D) What are the key themes related to the economic context of valuation tools?
+
+_The correct option is: B) What are the characteristics of valuation multiples?_
+==================================================
+Query 47 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. What are price multiples and enterprise value multiples primarily based on?
+   A. Market volatility
+   B. Fundamental value per share
+   C. Sector performance
+   D. Regulatory trends
+**Underline the correct answer.**
+
+2. How do investors typically evaluate the price of a share of stock using multiples?
+   A. By considering market trends only
+   B. By comparing it to the company's earnings, net assets, or cash flow
+   C. By analyzing macroeconomic indicators
+   D. By focusing on social media sentiment
+**Underline the correct answer.**
+
+3. How are enterprise value multiples different from price multiples?
+   A. Enterprise value multiples focus on stock market trends only
+   B. Price multiples relate to the entire market value of a company
+   C. Enterprise value multiples consider the total market value of all sources of a company’s capital
+   D. Price multiples emphasize regulatory compliance
+**Underline the correct answer.**
+
+4. What is the main advantage of using multiples as valuation tools?
+   A. Complexity in use
+   B. Difficulty in communication
+   C. Simplicity in use and ease of communication
+   D. High level of subjectivity
+**Underline the correct answer.**
+==================================================
+Query 48 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+What is the primary difference between price multiples and enterprise value multiples as valuation tools?
+
+A) Price multiples focus on the entire market value of a company, while enterprise value multiples focus on per-share metrics.
+B) Price multiples relate to an individual security's price relative to fundamental value, while enterprise value multiples relate to the total market value of a company's capital.
+C) Price multiples consider past stock performance, while enterprise value multiples focus on future investment opportunities.
+D) Price multiples simplify the evaluation of a company's total capital, while enterprise value multiples complicate the assessment of per-share earnings.
+
+**The correct answer is B) Price multiples relate to an individual security's price relative to fundamental value, while enterprise value multiples relate to the total market value of a company's capital.**
+==================================================
+Query 49 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. Which of the following best describes the intuition behind price multiples?
+   A. Price multiples relate the total market value of a company to a measure of fundamental value per share.
+   B. Price multiples summarize the relationship between the market value of a company's stock and some fundamental quantity, such as earnings, sales, or book value.
+   C. Price multiples evaluate the market value of an entire enterprise relative to the amount of earnings before interest, taxes, depreciation, and amortization (EBITDA) it generates.
+   D. Price multiples provide information on future patterns of returns over some time horizon.
+
+2. How are enterprise value multiples different from price multiples?
+   A. Enterprise value multiples evaluate the market value of an entire enterprise relative to the amount of earnings before interest, taxes, depreciation, and amortization (EBITDA) it generates.
+   B. Enterprise value multiples relate the total market value of a company to a measure of fundamental value per share.
+   C. Enterprise value multiples provide a single number summarizing the relationship between the market value of a company's stock and some fundamental quantity.
+   D. Enterprise value multiples focus on identifying potentially rewarding investment opportunities based on past values.
+
+3. What is the logic behind using momentum indicators as valuation tools?
+   A. Momentum indicators summarize the relationship between the market value of a company's stock and some fundamental quantity.
+   B. Momentum indicators provide information on future patterns of returns over some time horizon.
+   C. Momentum indicators evaluate the market value of an entire enterprise relative to the amount of earnings before interest, taxes, depreciation, and amortization (EBITDA) it generates.
+   D. Momentum indicators relate the total market value of a company to a measure of fundamental value per share.
+
+4. How is the use of momentum indicators different from the use of price and enterprise value multiples as valuation tools?
+   A. Momentum indicators focus on identifying potentially rewarding investment opportunities based on past values, while price and enterprise value multiples evaluate the market value of a company's stock.
+   B. Price and enterprise value multiples provide information on future patterns of returns over some time horizon, while momentum indicators summarize the relationship between market value and fundamental quantity.
+   C. Price and enterprise value multiples are used to evaluate the market value of an entire enterprise, while momentum indicators focus on individual securities.
+   D. Momentum indicators are used to relate a fundamental measure to its own past values or expected value, while price and enterprise value multiples summarize market value relationships with fundamental quantities. 
+
+**Correct answers are:**
+1. B. Price multiples summarize the relationship between the market value of a company's stock and some fundamental quantity, such as earnings, sales, or book value.
+2. A. Enterprise value multiples evaluate the market value of an entire enterprise relative to the amount of earnings before interest, taxes, depreciation, and amortization (EBITDA) it generates.
+3. B. Momentum indicators provide information on future patterns of returns over some time horizon.
+4. D. Momentum indicators are used to relate a fundamental measure to its own past values or expected value, while price and enterprise value multiples summarize market value relationships with fundamental quantities.
+==================================================
+Query 50 for MarketBasedValuationPriceandEnterpriseValueMultiples2018Summary:
+
+1. Which of the following statements accurately describes price multiples?
+   A. Price multiples compare a stock's market price to the total market value of a company's capital.
+   B. Price multiples compare a stock's market price to a measure of fundamental value per share.
+   C. Price multiples relate the total market value of all sources of a company's capital to a measure of fundamental value for the entire company.
+   D. Price multiples evaluate an enterprise's market value relative to earnings before interest, taxes, depreciation, and amortization (EBITDA).
+
+2. What is the intuition behind using enterprise value multiples?
+   A. Evaluating the market value of an enterprise relative to expected future values.
+   B. Comparing a stock's market price to some measure of fundamental value per share.
+   C. Relating the market value of a company's stock to a fundamental quantity like earnings or sales.
+   D. Evaluating the market value of an entire enterprise relative to earnings, sales, or operating cash flow it generates.
+
+3. How are momentum indicators different from price and enterprise value multiples?
+   A. Momentum indicators focus on the relationship between stock market price and fundamental value.
+   B. Momentum indicators summarize the market value of a company's stock.
+   C. Momentum indicators provide information on future patterns of returns based on past values.
+   D. Momentum indicators relate the market value of an enterprise to fundamental quantities like earnings or sales.
+
+4. In what context are multiples commonly used as valuation tools?
+   A. Comparative analysis of investment opportunities.
+   B. Predicting future stock prices.
+   C. Calculating a company's intrinsic value.
+   D. Assessing the relationship between market value and fundamental quantities. 
+
+_underline_
+==================================================
