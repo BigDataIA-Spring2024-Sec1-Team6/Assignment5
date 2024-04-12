@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+snowflake
+snowflake-connector-python 
+openai
+toml
+pinecone-client
