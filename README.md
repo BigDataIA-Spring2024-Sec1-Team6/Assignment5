@@ -53,6 +53,18 @@ In the context of finance professional development, there's a need to enhance kn
 
 This outline should provide a comprehensive framework for the assignment, detailing all necessary aspects for successful completion and evaluation.
 
+## Team Information and Contribution
+
+WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+
+| Name               | Contribution %   | Contributions                                             |
+|--------------------|------------------|-----------------------------------------------------------|
+| Osborne Lopes      | 30%            | Documentaion (50%) , Use Case 3 (50%)                     |
+| Akshita Pathania   | 40%            | Pinecone (50%), Use Case 1, OpenAI (50%)                  |
+| Smithi Parthiban   | 40%            | Pinecone (50%) , Use Case 2, OpenAI (50%)                 |
+| Manimanya Reddy    | 30%            | Arch Diagram, Documentation (50%),Use Case 3 (50%)        |
+ 
+
 
 CodeLabs Document: https://codelabs-preview.appspot.com/?file_id=1G9JvGRC8y_qDn36QhqQY8fIfYreahONuV6Cloe24e_8#4
 
