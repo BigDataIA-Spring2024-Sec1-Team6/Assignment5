@@ -68,8 +68,7 @@ WE ATTEST THAT WE HAVEN'T USED ANY OTHER STUDENT'S WORK IN OUR ASSIGNMENT AND AB
 
 CodeLabs Document: https://codelabs-preview.appspot.com/?file_id=1G9JvGRC8y_qDn36QhqQY8fIfYreahONuV6Cloe24e_8#4
 
-Architecture Diagram:
-<img width="563" alt="Screenshot 2024-04-12 at 4 25 53 PM" src="https://github.com/BigDataIA-Spring2024-Sec1-Team6/Assignment5/assets/114605149/b47b9f62-75bc-44ee-8866-51fdb273cf88">
+
 
 
 
