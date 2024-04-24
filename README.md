@@ -4,7 +4,8 @@
 In the context of finance professional development, there's a need to enhance knowledge retrieval and question-answer capabilities using Models as a Service APIs. This involves curating information from multiple sources and determining the best approach for operationalizing the results within an enterprise environment.
 
 
-## ARCHITECTURAL DIAGRAM
+## Architectural Diagram
+
 ![diagram png](https://github.com/BigDataIA-Spring2024-Sec1-Team6/Assignment5/assets/113812925/6c106a5f-3543-4bcb-af4d-8eb24a20aa28)
 
 
